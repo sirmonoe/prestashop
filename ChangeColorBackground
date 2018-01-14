@@ -1,0 +1,23 @@
+/*RUTA FICHERO - ..\themes\classic\assets\css\custom.css */
+
+/*Cambiar color del fondo de pagina*/
+
+/*CABECERA*/
+
+#header {
+
+}
+
+/*CUERPO*/
+
+#wrapper {
+
+}
+
+/*PIE*/
+
+#footer {
+
+}
+
+background: #f9f9f9  /*Revisar codigo de color para establecer uno - Codigo de colores HTML*/
