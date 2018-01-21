@@ -1,0 +1,20 @@
+/*PARA CAMBIAR EL COLOR DEL TEXTO EN EL FOOTER */
+
+/*ARCHIVO A MODIFICAR "Theme.css" */
+
+/* Letras Parte superior izquierda */
+
+/* Buscar y reemplazar color correspondiente : text-decoration:none}p{font-size:.9375rem;color:#xxxxx */
+
+/* Para poner letra en negrita cambiar : ;font-weight:400 por "bold"  */
+
+
+
+/* CAMBIAR COLOR TEXTOS "PRODUCTOS - NUESTRA EMPRESA"  */
+
+/* Buscar y reemplazar colores en la linea /*
+
+/* .custom-checkbox span.color{border:2px solid #e5e302}.h1,.h2,.h3{text-transform:uppercase;color:#e5e302}.h4{font-weight:1000;color:#e5e302  */
+
+
+
