@@ -18,3 +18,34 @@
 
 
 
+/*CAMBIAR COLOR TEXTO "SU CUENTA"  */
+
+/* Buscar y reemplazar color en ...  */
+
+.myaccount-title a{color:#fff
+
+
+
+/* CAMBIAR COLOR TEXTO "INFORMACION DE LA TIENDA"
+
+/* Buscar y reemplazar color en ...  */
+
+.blockcms-title a{color:#232323}
+
+
+/* CAMBIAR COLOR LISTADO "PRODUCTOS - NUESTRA EMPRESA - SU CUENTA - INFORMACION DE LA TIENDA"   */
+
+/* Buscar y reemplazar color en ... */
+
+.footer-container li a{color:#7a7a7a
+
+
+/* CAMBIAR COLOR BLOQUE "INFORMACION DE LA TIENDA"  */
+
+/* Buscar y reemplazar ultimo color en ... */
+
+.block-contact{border-left:2px solid #f1f1f1;padding-left:3rem;color:#7a7a7a}
+
+
+
+
